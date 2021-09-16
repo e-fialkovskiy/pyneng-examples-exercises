@@ -27,7 +27,19 @@ last_name = "Fialkovskiy"
 # print(sorted(names))
 # print(names)
 
-vlans = ['10', '20', '30', '100-200']
-vlans2 = ['300', '400', '500']
-vlans.extend(vlans2)
-print(vlans)
+# vlans = ['10', '20', '30', '100-200']
+# vlans2 = ['300', '400', '500']
+# vlans.extend(vlans2)
+# print(vlans)
+
+# d = {'fio' : 'Buglak', 'age' : '31', 'pol' : 'male', 'job' : 'yes'}
+# d['location'] = 'Irkutsk'
+# print(d)
+# print(d['age'])
+# print(d.keys())
+
+
+
+
+
+
